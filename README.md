@@ -1,3 +1,5 @@
+This is the repository for C2DT(Reward & Cost Critic Guided Decision Transformer), an offline safe RL algorithm.
+
 ## Structure
 The structure of this repo is as follows:
 ```
