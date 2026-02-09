@@ -44,7 +44,7 @@ By default, the config file and the logs during training will be written to `log
 You can also launch a sequence of experiments or in parallel via the EasyRunner package, see `examples/train_all_tasks.py` for details.
 
 ### Evaluation
-To evaluate a trained agent, for example, a BCQ agent, simply run
+To evaluate a trained agent, for example, a C2DT agent, simply run
 ```shell
 python examples/eval/eval_c2dt.py --path path_to_model --eval_episodes 20
 ```
